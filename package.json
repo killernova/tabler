@@ -84,7 +84,6 @@
     "@tabler/icons": "^1.39.1",
     "apexcharts": "^3.25.0",
     "autosize": "^4.0.2",
-    "bootstrap": "twbs/bootstrap#5c32767e0e0dbac2d934bcdee03719a65d3f1187",
     "choices.js": "^9.0.1",
     "countup.js": "^2.0.7",
     "flatpickr": "^4.6.9",
